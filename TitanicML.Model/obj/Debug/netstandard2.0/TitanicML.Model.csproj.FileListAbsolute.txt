@@ -1,0 +1,11 @@
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\bin\Debug\netstandard2.0\TitanicML.Model.deps.json
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\bin\Debug\netstandard2.0\TitanicML.Model.dll
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\bin\Debug\netstandard2.0\TitanicML.Model.pdb
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.csproj.AssemblyReference.cache
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.AssemblyInfoInputs.cache
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.AssemblyInfo.cs
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.csproj.CoreCompileInputs.cache
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.dll
+C:\Users\shamp\Desktop\TitanicML\Titanic\TitanicML.Model\obj\Debug\netstandard2.0\TitanicML.Model.pdb
